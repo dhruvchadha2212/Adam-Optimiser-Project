@@ -25,8 +25,6 @@ counter=0;
       end
       
       counter=counter+1;
-printf("%d\n",counter);
-printf("%2.6f\n",funcx(xprev));
   end
   printf("%d\n",counter);
    printf("%2.6f\n",funcx(xprev));
