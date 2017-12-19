@@ -4,6 +4,7 @@ It consists of the following three algorithms
 1. Adagrad
 2. Rmsprop
 3. Adam optimiser
+
 Inorder to run the above algorithms,you need scilab software.
 (here is the link to download scilab for various platforms http://www.scilab.org/en/download/latest)
 After downloading the scilab you just need to copy and paste the code provided.
