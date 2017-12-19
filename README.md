@@ -19,4 +19,4 @@ In case of Adagrad only change the variable 'dim' with the no. of dimensions of 
 The output of all the programs are the minima of the function and the no. of iterations in which the algorithm
 is computing the minima.
 
-You can see the results that we computed previously inorder to compare the algorithms, by taking some famous functions.
+You can see the results that we computed previously inorder to compare the algorithms, by taking some famous functions in "Report.pdf".
